@@ -18,7 +18,7 @@
     "bugs": {
       "url": "https://github.com/VitZzPlanet/Anti-Raid-Bot/issues"
     },
-    "homepage": "https://github.com/VitZzPlanet/Anti-Raid-Bot/readme.md",
+    "homepage": "https://github.com/VitZzPlanet/Anti-Raid-Bot/README.md",
     "dependencies": {
       "discord.js": "^12.5.3",
       "express": "^4.18.2"
