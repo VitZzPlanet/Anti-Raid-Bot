@@ -1,24 +1,24 @@
 {
-    "name": "kannabot",
+    "name": "Anti Raid Bot",
     "version": "1.0.0",
     "description": "simple bot to banned people",
-    "main": "kanna.js",
+    "main": "index.js",
     "scripts": {
-      "test": "node kanna.js"
+      "test": "node index.js"
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/vitzzplanet/antiraidbot.git"
+      "url": "git+https://github.com/VitZzPlanet/Anti-Raid-Bot.git"
     },
     "keywords": [
-      "Kanna"
+      "vlt1"
     ],
     "author": "vlt1.dev",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/Eilaluth/Kanna/issues"
+      "url": "https://github.com/VitZzPlanet/Anti-Raid-Bot/issues"
     },
-    "homepage": "https://github.com/",
+    "homepage": "https://github.com/VitZzPlanet/Anti-Raid-Bot/readme.md",
     "dependencies": {
       "discord.js": "^12.5.3",
       "express": "^4.18.2"
