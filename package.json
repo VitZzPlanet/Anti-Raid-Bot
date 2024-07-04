@@ -1,0 +1,27 @@
+{
+    "name": "kannabot",
+    "version": "1.0.0",
+    "description": "simple bot to banned people",
+    "main": "kanna.js",
+    "scripts": {
+      "test": "node kanna.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/vitzzplanet/antiraidbot.git"
+    },
+    "keywords": [
+      "Kanna"
+    ],
+    "author": "vlt1.dev",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/Eilaluth/Kanna/issues"
+    },
+    "homepage": "https://github.com/",
+    "dependencies": {
+      "discord.js": "^12.5.3",
+      "express": "^4.18.2"
+    }
+  }
+  
