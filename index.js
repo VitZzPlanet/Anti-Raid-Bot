@@ -13,7 +13,7 @@ const DIFF = 2000; // diff every one message
 const express = require('express');
 const app = express();
 app.get('/', (req, res) => {
-  res.send('Hello Im vlt1.dev join our discord for bot codes and more!! https://discord.gg/vitzzplanet youtube https://');
+  res.send('Hello Im vlt1.dev join our discord for bot codes and more!! https://discord.gg/vitzzplanet youtube https://youtube.com/@VitZzPlanet');
 });
 app.listen(3000, () => {
   console.log('server started');
